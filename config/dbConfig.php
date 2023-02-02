@@ -2,7 +2,7 @@
 
 
 $hn = "localhost";
-$un = "boby";
+$un = "bob";
 $pw = ")UbXFe9V7ZNw2[P5";
 $db = "vintageVinyl";
 
